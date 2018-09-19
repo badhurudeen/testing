@@ -34,3 +34,7 @@ To get the committed file status:
 To push:
 
 git push origin <master>	
+
+To Pull:
+
+git pull origin <firstbranch>
