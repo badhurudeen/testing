@@ -22,3 +22,15 @@ To get status:
 To add a new file to the local repo:
 
 	git add <filename.txt>
+
+To commit:
+	
+	git commit -m "custom message"
+
+To get the committed file status:
+
+    git log
+
+To push:
+
+git push origin <master>	
