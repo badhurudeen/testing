@@ -33,7 +33,11 @@ To get the committed file status:
 
 To push:
 
-git push origin <master>	
+git push origin <master>
+
+To Fetch:
+
+git fetch origin <master>
 
 To Pull:
 
