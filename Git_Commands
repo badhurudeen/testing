@@ -1,0 +1,24 @@
+git config --global user.name "badhurudeen"
+git config --global user.email "badhurudeen.s1@gmail.com"
+
+git config user.name
+git config user.email
+
+
+To initilize the git:
+
+	Cd-> target folder
+
+	git init
+
+To link remote repo:
+	git remote add origin "https://github.com/badhurudeen/testing.git"
+
+
+To get status:
+   
+   git status
+
+To add a new file to the local repo:
+
+	git add <filename.txt>
