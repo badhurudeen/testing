@@ -42,3 +42,25 @@ git fetch origin <master>
 To Pull:
 
 git pull origin <firstbranch>
+
+Files view:
+ git ls-files
+
+To create new branch:
+	git branch <branch1>
+
+To enter inside the branch:
+	git checkout branch1
+
+	add new file:
+		git add <file.text>
+
+	To commit
+	    git commit -m "with message"	
+
+To back to master:
+	git checkout master	
+
+To merge the branch with master;
+
+    git merge <branch>		
